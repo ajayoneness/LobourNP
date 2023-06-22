@@ -13,18 +13,18 @@ LabourNP is an online platform that connects laborers seeking employment opportu
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/LabourNP.git`
-2. Install dependencies: `npm install`
-3. Configure the database connection in `config.js`
-4. Start the server: `npm start`
+1. Clone the repository: `git clone https://github.com/ajayoneness/LobourNP.git`
+2. Install dependencies: `pip install django
+4. Start the server: `python manage.py runserver`
 
 ## Technologies Used
 
-- Node.js
-- Express.js
-- MongoDB
+- Python
+- Django
+- SQLlite
 - HTML/CSS
 - JavaScript
+- Ajax
 
 ## Contributing
 
@@ -36,4 +36,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries, please contact the project team at [email protected]
+For any inquiries, please contact the project team at [codeaj123@gmail.com]
